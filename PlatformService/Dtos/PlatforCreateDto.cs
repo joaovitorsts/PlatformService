@@ -2,7 +2,7 @@
 
 namespace PlatformService.Dtos
 {
-    public class PlatforCreateDto
+    public class PlatformCreateDto
     {
         [Required]
         public string Name { get; set; }
